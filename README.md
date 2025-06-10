@@ -65,3 +65,4 @@ Easy-to-understand modular code structure.
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f4e08b42-9922-4a53-ac22-b53cb6ad0b62)
